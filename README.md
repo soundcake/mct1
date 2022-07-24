@@ -25,6 +25,8 @@ docker run -p 3000:3000 mct1
 ````
 The postman collection is included in this repo - MachineCompare1.postman_collection.json
 <hr />
+The postman requests provided in the collection can be sent as they are as they use the Terminator 2 movie for testing (imdb_id tt0103064)
+<hr />
 <h2>If extra time available</h2>
 A number of possible improvements would be possible, including:
 <ul>
